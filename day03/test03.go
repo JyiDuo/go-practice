@@ -1,5 +1,5 @@
 package main
-
+/*
 import (
 	"fmt"
 	"strings"
@@ -19,7 +19,7 @@ func main() {
 		fmt.Println(strings.Join(board[i], " "))
 	}
 }
-
+*/
 /*
 func main(){
 	arr:=[6]int{1,2,3,4,5,6}
