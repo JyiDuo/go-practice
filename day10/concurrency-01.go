@@ -1,8 +1,11 @@
 package main
+/*
 import(
 	"fmt"
 	"sync"
 )
+*/
+/*
 func main(){
 	var wg sync.WaitGroup
 	for i:=0;i<5;i++{
@@ -17,4 +20,4 @@ func main(){
 	}
 	wg.Wait()
 	fmt.Println("所有协程执行完毕，主程序退出")
-}
+}*/
